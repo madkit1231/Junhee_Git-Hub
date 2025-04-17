@@ -1,2 +1,2 @@
-# srparta-git
-스파르타 깃
+# JunHee
+깃 허브
